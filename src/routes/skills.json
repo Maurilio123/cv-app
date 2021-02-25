@@ -1,0 +1,23 @@
+[
+    {
+        "nome": "Javascript",
+        "range": "50%"
+    },
+    {
+        "nome": "HTML",
+        "range": "80%"
+    },
+    {
+        "nome": "CSS",
+        "range": "80%"
+    },
+    {
+        "nome": "NODEJS",
+        "range": "60%"
+    },
+
+    {
+        "nome": "PowerPoint",
+        "range": "85%"
+    }
+]
